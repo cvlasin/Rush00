@@ -1,0 +1,131 @@
+* {
+	font-family: Arial;
+}
+
+.logo{
+	position: absolute;
+	left: 120px;
+	top: 10px;
+}
+
+.logoimg{
+	width: 150px;
+	height: auto;
+}
+
+.login{
+	position: absolute;
+	right: 5%;
+	top: 10px;
+	max-height: 100;
+	color:white;
+	background-color: #1f9ce0;
+	border-radius: 14px;
+	width:200px;
+	height:auto;
+	text-align: center;
+	display: block;
+}
+
+user{
+	font-size: 12px;
+}
+
+pass{
+	font-size: 12px;
+}
+
+.menu{
+	background-color: #1f9ce0;
+	border-radius: 14px;
+	width: 90%;
+	min-height: 50px;
+	position: absolute;
+	top: 170px;
+	left: 120px;
+	word-spacing: 150px;
+	text-transform: uppercase;
+	display:block;
+	overflow: auto;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+table {
+	position: absolute;
+	left: 120px;
+	margin: 0 auto;
+	width: 90%;
+	color: white;
+}
+
+td {
+	padding-right: 20px;
+	padding-left:20px;
+}
+
+.links{
+	font-size: 25px;
+	position: absolute;
+	top: 12px;
+	left: 20px;
+}
+
+.cosul{
+	width: 40px;
+	height: 40px;
+}
+
+.link{
+	color: #f2f2f2;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: #ff9999;
+}
+
+.link:link {
+	text-decoration: none;
+}
+
+.link:visited {
+	text-decoration: none;
+}
+
+.products{
+	width: 90%;
+	height: 70%;
+	background-color: black;
+	position: absolute;
+	left: 120px;
+	top: 250px;
+	align-content: center;
+	overflow:auto;
+	text-align: center;
+}
+
+img {
+	width:150px;
+	height:150px;
+}
+
+.imgsize
+{
+	width: 150px;
+	height: 50px;
+}
+.produs{
+	width: 100px;
+	height: 100px;
+}
